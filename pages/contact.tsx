@@ -128,7 +128,7 @@ export default function ContactForm() {
         </p>
       </div>
       <form
-        action="#"
+        action="/success"
         method="POST"
         className="mx-auto mt-16 max-w-xl sm:mt-20"
       >
